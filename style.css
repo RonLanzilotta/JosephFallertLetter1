@@ -1,0 +1,18 @@
+/* ── Variables ─────────────────────────────────────────── */
+:root {
+  --bg:          #f5f4f1;
+  --surface:     #ffffff;
+  --border:      #e4e2dd;
+  --text:        #1a1a18;
+  --text-muted:  #6b6b67;
+  --accent:      #1d4ed8;
+  --accent-dark: #1e3a8a;
+  --accent-bg:   #eff6ff;
+  --red:         #dc2626;
+  --radius:      10px;
+  --shadow:      0 1px 4px rgba(0,0,0,.06), 0 4px 16px rgba(0,0,0,.06);
+  --font-sans:   'Inter', system-ui, sans-serif;
+  --font-serif:  'Lora', Georgia, serif;
+}
+
+/* ... (full contents as shown above) */
